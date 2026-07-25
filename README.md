@@ -1,7 +1,7 @@
 ## Undergraduate computer engineering of Univercity of Bologna ♾️​
 <table>
   <tr>
-    <td align="left">Working on C# projects</td>
+    <td align="left">Working on C# projects &nbsp;&nbsp;&nbsp;&nbsp;</td>
     <td align="right"><img src="gif.gif" width="400" alt="Descrizione"></td>
   </tr>
 </table>
