@@ -5,6 +5,10 @@
     <td align="right" border="none"><img src="gif.gif" width="400" alt="Descrizione"></td>
   </tr>
 </table>
+<div align="center">
+  <p>Working on C# projects</p>
+  <img src="gif.gif" width="45%">
+</div>
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
