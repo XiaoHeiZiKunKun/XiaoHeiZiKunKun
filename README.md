@@ -5,8 +5,7 @@
     <td align="right" border="none"><img src="gif.gif" width="400" alt="Descrizione"></td>
   </tr>
 </table>
-<div align="center">
-  <p>Working on C# projects</p>
+<div align="left">
   Working on C# projects<img align="right" src="gif.gif" width="45%">
 </div>
 <!--
