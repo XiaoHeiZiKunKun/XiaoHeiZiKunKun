@@ -1,5 +1,5 @@
 ## Undergraduate computer engineering of Univercity of Bologna ♾️​
-
+![Descrizione](gif.gif)
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
