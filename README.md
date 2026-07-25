@@ -1,6 +1,6 @@
 ## Undergraduate computer engineering of Univercity of Bologna ♾️​
 <p align="right">
-  <img src="assets/miagif.gif" width="400" alt="Descrizione">
+  <img src="gif.gif" width="400" alt="Descrizione">
 </p>
 <!--
 - 🔭 I’m currently working on ...
