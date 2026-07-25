@@ -1,4 +1,7 @@
 ## Undergraduate computer engineering of Univercity of Bologna ♾️​
+<p align="left">
+  Working on C# projects
+</p>
 <p align="right">
   <img src="gif.gif" width="400" alt="Descrizione">
 </p>
