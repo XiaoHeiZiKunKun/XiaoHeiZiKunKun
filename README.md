@@ -7,7 +7,7 @@
 </table>
 <div align="center">
   <p>Working on C# projects</p>
-  <img align="right" src="gif.gif" width="45%">
+  Working on C# projects<img align="right" src="gif.gif" width="45%">
 </div>
 <!--
 - 🔭 I’m currently working on ...
