@@ -1,4 +1,4 @@
-## Undergraduate student of Univercity of Bologna ♾️​
+## Undergraduate computer engineering of Univercity of Bologna ♾️​
 
 <!--
 - 🔭 I’m currently working on ...
