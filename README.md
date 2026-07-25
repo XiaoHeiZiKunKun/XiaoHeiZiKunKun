@@ -1,10 +1,8 @@
 ## Undergraduate computer engineering of Univercity of Bologna ♾️​
-<p align="left">
-  Working on C# projects
-</p>
 <p align="right">
-  <img src="gif.gif" width="400" alt="Descrizione">
+  <img src="gif.gif" width="400" alt="Benvenuto">
 </p>
+🔭 Working on C# projects
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
