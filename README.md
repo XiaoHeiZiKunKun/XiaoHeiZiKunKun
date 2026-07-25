@@ -1,8 +1,10 @@
 ## Undergraduate computer engineering of Univercity of Bologna ♾️​
-<p align="right">
-  <img src="gif.gif" width="400" alt="Benvenuto">
-</p>
-🔭 Working on C# projects
+<table>
+  <tr>
+    <td align="left">Working on C# projects</td>
+    <td align="right"><img src="gif.gif" width="400" alt="Descrizione"></td>
+  </tr>
+</table>
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
