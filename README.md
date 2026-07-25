@@ -1,12 +1,6 @@
 ## Undergraduate computer engineering of Univercity of Bologna ♾️​
-<table width="100%" border="none">
-  <tr>
-    <td align="left" border="none">Working on C# projects&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-    <td align="right" border="none"><img src="gif.gif" width="400" alt="Descrizione"></td>
-  </tr>
-</table>
 <div align="left">
-  Working on C# projects<img align="right" src="gif.gif" width="45%">
+  Working on C# and Node.js projects. Quite interested in cloud computing.<img align="right" src="gif.gif" width="45%">
 </div>
 <!--
 - 🔭 I’m currently working on ...
