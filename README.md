@@ -1,7 +1,7 @@
 ## Undergraduate computer engineering of Univercity of Bologna ♾️​
 <div align="left">
   Working on C# and Node.js projects.  
-  Quite interested in cloud computing.<img align="right" src="gif.gif" width="45%">
+  Quite interested in cloud & edge computing, nginx and devops.<img align="right" src="gif.gif" width="45%">
 </div>
 <!--
 - 🔭 I’m currently working on ...
