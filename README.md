@@ -10,7 +10,7 @@ Undergraduate Computer Engineering student at University of Bologna
 
 Working on **C#** and **Node.js** projects. Quite interested in **cloud** & **edge** **computing**, **nginx** and **devops**.
 
-### Contact me (Not much to say!) 
+### Contacts
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/about_r03)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tommaso-rao-rjg)
 
