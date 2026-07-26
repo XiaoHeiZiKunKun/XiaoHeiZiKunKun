@@ -1,8 +1,3 @@
-## Undergraduate computer engineering of Univercity of Bologna ♾️​
-<div align="left">
-  <img align="right" src="gif.gif" width="45%">
-</div>
-
 <div align="left">
 
 # Welcome to my GitHub space! 👋
