@@ -1,8 +1,28 @@
 ## Undergraduate computer engineering of Univercity of Bologna ♾️​
 <div align="left">
-  Working on C# and Node.js projects.  
-  Quite interested in cloud & edge computing, nginx and devops.<img align="right" src="gif.gif" width="45%">
+  <img align="right" src="gif.gif" width="45%">
 </div>
+
+<div align="left">
+
+# Welcome to my GitHub space! 👋
+
+<img src="gif.gif" align="right" width="40%" alt="Footer GIF"/>
+
+**Davide Chirichella** 
+
+M.Sc. Student in Computer Engineering at University of Bologna (Unibo)
+
+Working on **C#** and **Node.js** projects. Quite interested in **cloud** & **edge** **computing**, **nginx** and **devops**.
+
+### Contact me (Not much to say!) 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/about_r03)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tommaso-rao-rjg)
+
+<br clear="right"/>
+
+</div>
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
