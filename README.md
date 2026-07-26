@@ -4,9 +4,9 @@
 
 <img src="gif.gif" align="right" width="40%" alt="Footer GIF"/>
 
-**Davide Chirichella** 
+**Tommaso Rao** 
 
-M.Sc. Student in Computer Engineering at University of Bologna (Unibo)
+Undergraduate Computer Engineering student at University of Bologna
 
 Working on **C#** and **Node.js** projects. Quite interested in **cloud** & **edge** **computing**, **nginx** and **devops**.
 
