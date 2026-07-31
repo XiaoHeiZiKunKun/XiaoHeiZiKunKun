@@ -8,7 +8,7 @@
 
 Undergraduate Computer Engineering student at University of Bologna
 
-Working on **C#** and **Node.js** projects. Quite interested in **cloud** & **edge** **computing**, **nginx** and **devops**.
+Working on **C#** and **Node.js** projects. Quite interested in **cloud** & **edge** **computing**.
 
 ### Contacts
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/about_r03)
